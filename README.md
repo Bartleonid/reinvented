@@ -6,6 +6,7 @@
   - [Table of Contents](#table-of-contents)
   - [Objective](#objective)
   - [Tech Stack](#tech-stack)
+  - [Types of testing](#types-of-testing-to-be-provided)
   - [Roles](#roles)
   - [Acсesses](#accesses)
   - [Acknowledgments](#acknowledgments)
@@ -18,12 +19,19 @@ Provide high quality of a tested software for eCommerce Magento based web-applic
 - [karate](https://github.com/intuit/karate)
 - [jmeter](https://jmeter.apache.org)
 
-## Types of testing
+## Types of testing to be provided
  - functional
     * black-box
     * white-box where possible
  - non-functional
-    * 
+    * performance
+    * security
+    * visual
+    * design
+    * usability
+
+## Levels of testing
+ 
 
 ## Roles
 - **QA Lead/Manager, Senior QA Automation Engineer**: leads/manages QA team, can help with Jira management and Development team, communicates with Retail Reinvented client and Development team. Provides QA Team with required accesses, tools. Defines QA strategy and technical approach. Develops and guides automation backend/frontend test framework development. 
