@@ -7,6 +7,7 @@
   - [Objective](#objective)
   - [Tech Stack](#tech-stack)
   - [Types of testing](#types-of-testing-to-be-provided)
+  - [Levels of testing](#levels-of-testing-to-be-provided)
   - [Roles](#roles)
   - [Acсesses](#accesses)
   - [Acknowledgments](#acknowledgments)
@@ -35,7 +36,20 @@ Provide high quality of a tested software for eCommerce Magento based web-applic
   - integration testing
   - system testing
   - acceptance testing
- 
+
+
+## Magento specific testing
+  - Sign in/Login/Logout testing
+  - Checkout testing 
+      * valid/invalid cred cards testing
+      * testing types of different types of payments
+      * shiping address testing
+      * promo-codes
+      * product-page testing
+      * admin testing
+      * product availability testing
+      * third-parties integraion testing
+  - 
 
 ## Roles
 - **QA Lead/Manager, Senior QA Automation Engineer**: leads/manages QA team, can help with Jira management and Development team, communicates with Retail Reinvented client and Development team. Provides QA Team with required accesses, tools. Defines QA strategy and technical approach. Develops and guides automation backend/frontend test framework development. 
