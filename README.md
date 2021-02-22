@@ -18,10 +18,19 @@ Provide high quality of a tested software for eCommerce Magento based web-applic
 - [karate](https://github.com/intuit/karate)
 - [jmeter](https://jmeter.apache.org)
 
+## Types of testing
+ - functional
+    * black-box
+    * white-box where possible
+ - non-functional
+    * 
+
 ## Roles
-- QA Lead/Manager, Senior QA Automation Engineer: leads/manages QA team, can help with Jira management and Development team, communicates with Retail Reinvented client and Development team. Provides QA Team with required accesses, tools. Defines QA strategy and technical approach. Develops and guides automation backend/frontend test framework development. 
-- Senior QA Manual Engineer: performs manual testing of a developed software. Detects, investigates, submitts defects into bug tracking system. Vefiies fixed defects. Assure SDLC flow is being followed by Development and QA statuses updated accordingly. Makes test design and builds TraceabilityMatrix to make sure all Assure regression testing is provided timely and
-- Senior QA Automation (Performance) Engineer.
+- **QA Lead/Manager, Senior QA Automation Engineer**: leads/manages QA team, can help with Jira management and Development team, communicates with Retail Reinvented client and Development team. Provides QA Team with required accesses, tools. Defines QA strategy and technical approach. Develops and guides automation backend/frontend test framework development. 
+- **Senior QA Manual Engineer**: performs manual testing of a developed software. Detects, investigates, submitts defects into bug tracking system. Vefiies fixed defects. Assure SDLC flow is being followed by Development and QA statuses updated accordingly. Makes test design and builds Traceability Matrix. Makes sure regression testing is provided timely and covers all main high priority functionality. Provides basic performance testing.
+- **Senior QA Automation (Performance) Engineer**: design performance (stress, load) testing: automates backend/frontend regression test cases. Makes sure automated testing is performed timely, all tests are updated and fixed accordngly. Sets up CI like Jenkins and configure pipelines for the required types of regression and performance testing. Follow submitted automation found bugs and verifies them after merged PR with proper fix for a ertain defect.  
+
+## Accessess
 
 
 ## Acknowledgments
