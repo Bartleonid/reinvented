@@ -25,11 +25,13 @@ Provide high quality of a tested software for eCommerce Magento based web-applic
     * black-box
     * white-box where possible
  - non-functional
+    * documentation
     * performance, load, stress
     * security
     * visual
     * design
     * usability
+    * localization
 
 ## Levels of testing
   - component testing
