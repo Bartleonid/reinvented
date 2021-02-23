@@ -60,9 +60,11 @@ Assure high quality of a tested software for eCommerce Magento based web-applica
       * main product page testing
       * pagination testing
   - Admin testing
+  - Filter testing
   - Third-parties integraion testing
   - Home page testing
   - My Account testing
+  - Reviews testing
   - Banners testing
   - Support chat testing
   - Subscription testing
