@@ -35,6 +35,8 @@ Assure high quality of a tested software for eCommerce Magento based web-applica
     * design
     * usability
     * localization
+    * compatibility testing
+    * cross-browser testing (platform+browsers combinations, devices)
 
 ## Levels of testing
   - component testing
@@ -44,25 +46,32 @@ Assure high quality of a tested software for eCommerce Magento based web-applica
 
 
 ## Magento specific testing
-  - Sign in, Email verification,/Login/Logout testing
-  - Checkout testing 
+  - Sign in/Login/Logout, Email verification testing
+  - Checkout/place order testing 
       * valid/invalid cred cards testing
-      * testing types of different types of payments (PayPal, Braintree PayPal, AuthNet and etc)
+      * testing different types of payments (PayPal, Braintree PayPal, AuthNet and etc)
       * shiping address testing
-      * promo-codes
-  - Product-page testing
+      * redeem promo-codes testing
+      * cart testing(amount/add/remove products)
+  - Product page testing
       * product availability testing
       * simple product page testing
       * main product page testing
       * pagination testing
   - Admin testing
   - Third-parties integraion testing
+  - Home page testing
+  - My Account testing
+  - Banners testing
+  - Support chat testing
+  - Subscription testing
+  - Add to Favorites testing
 
 
 ## Roles and people
-- ***Leonid Bartshchuk*** - **QA Lead/Manager, Senior QA Automation Engineer**: leads/manages QA team, can help with Jira management and Development team, communicates with Retail Reinvented client and Development team. Provides QA Team with required accesses, tools. Defines QA strategy and technical approach. Develops and guides automation backend/frontend test framework development. 
+- ***Leonid Bartshchuk*** - **QA Lead/Manager, Senior QA Automation Engineer**: leads/manages QA team, can help with Jira management and Development team, communicates with Retail Reinvented client and Development team. Provides QA Team with required accesses, tools. Defines QA strategy and technical approach. Develops and guides automation backend/frontend test framework development and test automation. Assists QA team with QA best practices and provides with recommendations in manual/automated testing. Can perform automated testing and CI configuration pipelines when free of leading/management tasks. 
 - ***Yegor Basniev*** - **Senior QA Manual Engineer**: performs manual testing of a developed software. Detects, investigates, submitts defects into bug tracking system. Verifies fixed defects. Assure SDLC flow is being followed by Development and QA statuses updated accordingly. Makes test design and builds Traceability Matrix. Makes sure regression testing is provided timely and covers all main high priority functionality. Provides basic performance testing.
-- ***Sam Slamakha*** - **Senior QA Automation (Performance) Engineer**: design performance (stress, load) testing: automates backend/frontend regression test cases. Makes sure automated testing is performed timely, all tests are updated and fixed accordngly. Sets up CI like Jenkins and configure pipelines for the required types of regression and performance testing. Follow submitted automation found bugs and verifies them with runnning automated tests after PR is merged with a proper fix for a certain defect.
+- ***Sam Slamakha*** - **Senior QA Automation (Performance) Engineer**: designs performance (stress, load) testing: automates backend/frontend regression test cases. Makes sure automated testing is performed timely, all tests are updated and fixed accordngly. Sets up CI like Jenkins and configure pipelines for the required types of regression and performance testing. Follow submitted automation found bugs and verifies them with runnning automated tests after PR is merged with a proper fix for a certain defect.
 
 ## QA Strategy
 Stages:
@@ -80,6 +89,7 @@ Stages:
   - Magento admin
   - TestRail
   - Confluence
+  - Browserstack or Crossbrowsertesting if nesessary
 
 ## Acknowledgments
 
