@@ -10,17 +10,18 @@
   - [Levels of testing](#levels-of-testing)
   - [Magento specific testing](#magento-specific-testing)
   - [Roles and people](#roles-and-people)
-  - [QA Strategy](qa-strategy)
+  - [QA Strategy](#qa-strategy)
   - [Acсesses](#accesses)
   - [Acknowledgments](#acknowledgments)
 
 ## Objective
-Provide high quality of a tested software for eCommerce Magento based web-applications using best QA manual/automation practices along with best, optimal and most efficient QA strategy.
+Assure high quality of a tested software for eCommerce Magento based web-applications using best QA manual/automation practices along with the best, optimal and most efficient QA process.
 
 ## Tech Stack
 - [magento](https://magento.com/)
-- [karate](https://github.com/intuit/karate)
-- [jmeter](https://jmeter.apache.org)
+- [karate](https://github.com/intuit/karate/)
+- [jmeter](https://jmeter.apache.org/)
+- [test-rail](https://www.gurock.com/testrail/)
 
 ## Types of testing
  - functional
@@ -70,7 +71,7 @@ Stages:
   3. Jira flow review and updating with required QA statuses
   4. Composing Tracebility Matrix based on requirements
   5. Manual testing + test-design kick-off of high priority business cases test coverage using TestRail tool like Sig In. Checkout.
-  6. API tests automation kick-off of high priority business cases test using Karate framework or JMeter
+  6. API tests automation kick-off of high priority business use cases using Karate framework or JMeter
   7. Weekly QA review with Perry on QA team progress
   8. Jenkins pipeline set up
 
