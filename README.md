@@ -47,7 +47,7 @@ Assure high quality of a tested software for eCommerce Magento based web-applica
 
 
 ## Magento specific testing
-  - Sign in/Login/Logout, Email verification testing
+  - Sign in/Login/Logout, Email verification, forgot password testing
   - Checkout/place order testing 
       * valid/invalid cred cards testing
       * testing different types of payments (PayPal, Braintree PayPal, AuthNet and etc)
