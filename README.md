@@ -97,6 +97,9 @@ Stages:
   - Confluence
   - Browserstack or Crossbrowsertesting if nesessary
 
+## Client's Retail Reinvented responsibilties
+Provide 
+
 ## Acknowledgments
 
 * Thanks to Perry Preston, Retail Reinvented and TechRozum QA team for the cooperation
