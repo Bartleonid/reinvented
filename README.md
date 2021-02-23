@@ -21,7 +21,7 @@ Assure high quality of a tested software for eCommerce Magento based web-applica
 - [magento](https://magento.com/)
 - [karate](https://github.com/intuit/karate/)
 - [jmeter](https://jmeter.apache.org/)
-- [test-rail](https://www.gurock.com/testrail/)
+- [testrail](https://www.gurock.com/testrail/)
 - [browserstack](https://www.browserstack.com/)
 
 ## Types of testing
@@ -85,7 +85,10 @@ Stages:
   5. Manual testing + test-design kick-off of high priority business cases test coverage using TestRail tool like Sig In. Checkout.
   6. API testing automation kick-off of high priority business use cases using Karate framework or JMeter
   7. Weekly QA review with Perry on QA team progress
-  8. Jenkins pipeline set up with backend test job
+  8. Jenkins pipeline set for backend tests
+  9. Frontend automated functional testig if nesessary
+  10. Visual frontend automated tesing
+
 
 ## Accessess
   - Jira
