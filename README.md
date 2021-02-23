@@ -22,6 +22,7 @@ Assure high quality of a tested software for eCommerce Magento based web-applica
 - [karate](https://github.com/intuit/karate/)
 - [jmeter](https://jmeter.apache.org/)
 - [test-rail](https://www.gurock.com/testrail/)
+- [browserstack](https://www.browserstack.com/)
 
 ## Types of testing
  - functional
