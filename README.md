@@ -9,7 +9,7 @@
   - [Types of testing](#types-of-testing)
   - [Levels of testing](#levels-of-testing)
   - [Magento specific testing](#magento-specific-testing)
-  - [Roles](#roles)
+  - [Roles and people](#roles-and-people)
   - [QA Strategy](qa-strategy)
   - [Acсesses](#accesses)
   - [Acknowledgments](#acknowledgments)
