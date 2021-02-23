@@ -69,7 +69,7 @@ Assure high quality of a tested software for eCommerce Magento based web-applica
   - Support chat testing
   - Subscription testing
   - Add to Favorites testing
-
+  - Discount testing
 
 ## Roles and people
 - ***Leonid Bartshchuk*** - **QA Lead/Manager, Senior QA Automation Engineer**: leads/manages QA team, can help with Jira management and Development team, communicates with Retail Reinvented client and Development team. Provides QA Team with required accesses, tools. Defines QA strategy and technical approach. Develops and guides automation backend/frontend test framework development and test automation. Assists QA team with QA best practices and provides with recommendations in manual/automated testing. Can perform automated testing and CI configuration pipelines when free of leading/management tasks. 
