@@ -83,9 +83,9 @@ Stages:
   3. Jira flow review and updating with required QA statuses
   4. Composing Tracebility Matrix based on requirements
   5. Manual testing + test-design kick-off of high priority business cases test coverage using TestRail tool like Sig In. Checkout.
-  6. API tests automation kick-off of high priority business use cases using Karate framework or JMeter
+  6. API testing automation kick-off of high priority business use cases using Karate framework or JMeter
   7. Weekly QA review with Perry on QA team progress
-  8. Jenkins pipeline set up
+  8. Jenkins pipeline set up with backend test job
 
 ## Accessess
   - Jira
