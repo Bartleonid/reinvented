@@ -80,7 +80,7 @@ Assure high quality of a tested software for eCommerce Magento based web-applica
 ## Roles and people
 - ***Leonid Bartashchuk*** - **QA Lead/Manager, Senior QA Automation Engineer**: leads/manages QA team, can help with Jira management and Development team, communicates with Retail Reinvented client and Development team. Provides QA Team with required accesses, tools. Defines QA strategy and technical approach. Develops and guides automation backend/frontend test framework development and test automation. Assists QA team with QA best practices and provides with recommendations in manual/automated testing. Can perform automated testing and CI configuration pipelines when free of leading/management tasks. 
 - ***Yegor Basniev*** - **Senior QA Manual Engineer**: performs manual testing of a developed software. Detects, investigates, submitts defects into bug tracking system. Verifies fixed defects. Assure SDLC flow is being followed by Development and QA statuses updated accordingly. Makes test design and builds Traceability Matrix. Makes sure regression testing is provided timely and covers all main high priority functionality. Provides basic performance testing.
-- ***Sam Salamakha*** - **Senior QA Automation (Performance) Engineer**: designs performance (stress, load) testing: automates backend/frontend regression test cases. Makes sure automated testing is performed timely, all tests are updated and fixed accordngly. Sets up CI like Jenkins and configure pipelines for the required types of regression and performance testing. Follow submitted automation found bugs and verifies them with runnning automated tests after PR is merged with a proper fix for a certain defect.
+- ***Sam Salamakha*** - **Senior QA Automation (Performance) Engineer**: designs performance (stress, load) testing: automates backend/frontend regression test cases. Makes sure automated testing is performed timely, all tests are updated and fixed accordngly. Sets up CI like Jenkins and configure pipelines for the required types of regression and performance testing. Follow submitted automation found bugs and verifies them with running automated tests after PR is merged with a proper fix for a certain defect.
 
 ## QA Strategy
 Stages:
@@ -92,8 +92,8 @@ Stages:
   6. API testing automation kick-off of high priority business use cases using Karate framework or JMeter
   7. Weekly QA review with Perry on QA team progress
   8. Jenkins pipeline set for backend tests
-  9. Frontend automated functional testig if nesessary
-  10. Visual frontend automated tesing
+  9. Frontend automated functional testing if nesessary
+  10. Visual frontend automated testing
 
 
 ## Accessess
