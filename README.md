@@ -52,7 +52,7 @@ Assure high quality of a tested software for eCommerce Magento based web-applica
   - Checkout/place order testing 
       * valid/invalid cred cards testing
       * testing different types of payments (PayPal, Braintree PayPal, AuthNet and etc)
-      * shiping address testing
+      * shipping address testing
       * redeem promo-codes testing
       * cart testing(amount/add/remove products)
   - Product page testing
@@ -62,7 +62,7 @@ Assure high quality of a tested software for eCommerce Magento based web-applica
       * pagination testing
   - Admin testing
   - Filter testing
-  - Third-parties integraion testing
+  - Third-parties integration testing
   - Home page testing
   - My Account testing
   - Reviews testing
