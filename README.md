@@ -1,4 +1,4 @@
-# Tech Quality Assurance services proposal to Perry Preston, Retail Reinvented from TechRozum inc.
+# Tech Quality Assurance services proposal.
 
 
 ## Table of Contents
@@ -105,4 +105,4 @@ Stages:
 
 ## Acknowledgments
 
-* Thanks to Perry Preston, Retail Reinvented and TechRozum QA team for the cooperation
+* Thanks to the QA team for the cooperation
